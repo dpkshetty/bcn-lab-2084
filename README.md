@@ -256,7 +256,7 @@ _Open the terminal and login to your cluster using the token
 
 ```bash
 # Get the lab repository
-git clone https://github.com/mgiessing/bcn-lab-2084 && cd bcn-lab-2084
+git clone https://github.com/dpkshetty/bcn-lab-2084 && cd bcn-lab-2084
 
 cd Part1-Deploy-LLM
 
@@ -291,7 +291,7 @@ Clone the repository using Github Desktop or use the terminal:
 
 ```bash
 # Get the lab repository
-git clone https://github.com/mgiessing/bcn-lab-2084 && cd bcn-lab-2084
+git clone https://github.com/dpkshetty/bcn-lab-2084 && cd bcn-lab-2084
 ```
 
 Now you're going to create the milvus deployment:
