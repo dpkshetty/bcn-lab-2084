@@ -1,3 +1,5 @@
+# !!! This repository is used as part of AI on Power - L3 course. !!!
+
 # Hands-on Lab: Deploy a Large Language Model on Power10
 
 In this lab you'll use a pretrained Large Language Model and deploy it on OpenShift. It will make use of the unique Power10 features such as the Vector Scalar Extension (VSX) as well as the newly introduced Matrix Math Accelerator (MMA) units. 
